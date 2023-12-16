@@ -1,0 +1,2 @@
+# syntt
+Syntropic Time Theory
