@@ -5,4 +5,6 @@ https://en.wikipedia.org/wiki/One-way_function
 
 When you try to link this irreversibility to [entanglement](./link-with-entanglement.md), it's hard to find work online about that because you get a lot of links about quantum computing that isn't necessarily related to the arrow of time.
 
+I should read https://arxiv.org/pdf/2001.10517.pdf ([downloaded](./bib/2001.10517.pdf))
+
 
